@@ -1,4 +1,5 @@
 # git-practice
 My first repository
 <br>
-Author: Sonila Shaukat
+Author: Sonila Shaukat (A Student)
+
